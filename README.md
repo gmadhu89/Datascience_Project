@@ -1,1 +1,1 @@
-My project on Titanic Dataset to predict survival using Classification technique
+Project on Titanic Dataset to predict survival using Classification technique
